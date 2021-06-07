@@ -1,0 +1,65 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "850872677979783187",
+"BanSpearID": "850872677991579693",
+"JailSpearID": "850872677991579691",
+"MuteSpearID": "850872677991579689",
+"VoiceMuteSpearID": "850872677991579690",
+"AbilityID": "850872677991579693"
+},
+
+"Channels": {
+"BanLogChannelID": "850872678805798931",
+"JailLogChannelID": "850872678805798931",
+"MuteLogChannelID": "850872678805798931",
+"VoiceMuteLogChannelID": "850872678805798931"
+},
+
+"Penalties": {
+"JailRole": "850872677945573415",
+"MuteRole": "850872677945573416",
+"booster": "ROLID"
+},
+
+"ServerSettings": {
+"GuildID": "850872677865881660",
+"GuildName": "SAIИT  †",
+"ServerTag": "†"
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "<a:yes:850880936953249853>",
+"False": "<:no:850881238721626202>",
+"TrueID": "850880936953249853",
+"FalseID": "850881238721626202"
+},
+
+"EmojiSayı": {
+"sifir": "0",
+"bir": "1",
+"iki": "2",
+"uc": "3",
+"dort": "4",
+"bes": "5",
+"alti": "6",
+"yedi": "7",
+"sekiz": "8",
+"dokuz": "9"
+}
+
+
+}
